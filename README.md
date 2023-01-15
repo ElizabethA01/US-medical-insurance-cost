@@ -15,11 +15,11 @@ Types of values (numerical vs. categorical)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- The purpose of this project was to analyze the U.S. medical insurance costs and to gain necessary information about the patients using Python (Pandas).
+- The purpose of this project was to analyze the U.S. medical insurance costs and to gain necessary information about the patients using Python and the csv module.
 - I undertook the project as part of a course I undertook on Codecademy.
 
 ## Technologies Used
-- Python 3 (Pandas and Matploblib)
+- Python 3 (csv)
 - Jupyter Notebook
 
 ## Project Status
